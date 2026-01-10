@@ -1,8 +1,7 @@
-Django>=4.2,<5.0
-djongo
-pymongo
-Pillow
-qrcode
-reportlab
+Django>=4.2
+djongo>=1.3.6
+pymongo[srv]>=3.12
 gunicorn
 whitenoise
+qrcode
+Pillow
