@@ -1,5 +1,8 @@
-flask
-flask-cors
+Django>=4.2,<5.0
+djongo
 pymongo
-dnspython
-python-dotenv
+Pillow
+qrcode
+reportlab
+gunicorn
+whitenoise
